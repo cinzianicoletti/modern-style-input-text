@@ -1,2 +1,3 @@
 # modern-style-input-text
-Simple input text animation
+Simple input text animation like Android
+
